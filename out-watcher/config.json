@@ -1,0 +1,9 @@
+{
+  "classPath": [
+    "file_watcher.jar"
+  ],
+  "mainClass": "com.company.Main",
+  "vmArgs": [
+    "-Xmx1G"
+  ]
+}
